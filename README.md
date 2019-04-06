@@ -1,12 +1,5 @@
-Project Group: g1D
-================
-
-
-
 Project name: ARC System
 ============================
-
-
 
 Description:
 =============
@@ -20,12 +13,13 @@ Current Status:
 ================
 Now, any client connected to the server that runs on a computer can ask a question and other clients 
 will be able to answer.
-The client who asked the question can get the bargraph at the end.
+The client who asked the question can get the pargraph at the end.
 
 
 
 Group members:
 ======================
+
 Asadov Kanan: Android java code + core GUI + partly networking.
 
 Hammad Ali Baig: Model Core classes.
@@ -37,6 +31,7 @@ Muradov Bayram: Android java code + core GUI + Github library search.
 Orujaliyev Ali: XML's + GUI + partly networking.
 
 Sabbagh Ali: Networking + partly android java code.
+
 =========================================
 
 
